@@ -1,11 +1,11 @@
 # Site settings
-author: travis Lawson
-title: 
+author: Travis Lawson
+title: The method to my variables
 header-img: img/home-bg.png
 email: travislawclimb@gmail.com
-copyright_name: travis Lawson
+copyright_name: Travis Lawson
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Coding and everything in between
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Tlaw92
