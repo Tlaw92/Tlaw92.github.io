@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "* "why screens"?"
-date:       2019-12-23 06:36:01 +0000
+date:       2019-12-23 01:36:02 -0500
 permalink:  why_screens
 ---
 
